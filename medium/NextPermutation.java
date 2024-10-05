@@ -2,12 +2,6 @@ import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-// https://practice.geeksforgeeks.org/problems/next-permutation/0
-// https://leetcode.com/problems/next-permutation/
-// https://www.youtube.com/watch?v=quAS1iydq7U&ab_channel=BackToBackSWE (BEST Explanation)
-// https://www.youtube.com/watch?v=LuLCLgMElus&ab_channel=takeUforward (BEST Explanation of the intuition behind the algorithm)
-// https://github.com/bephrem1/backtobackswe/blob/master/Arrays%2C%20Primitives%2C%20Strings/NextPermutation/NextPermutation.java
-// https://www.geeksforgeeks.org/find-next-greater-number-set-digits/
 
 class Arrays_NextPermutation {
 
